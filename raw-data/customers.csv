@@ -1,0 +1,23 @@
+Customer ID,Full Name,Email Address,Phone Number,City,Country,Join Date,Customer Type,Notes
+C001,  john smith  ,john.smith@email.com,01712-345678,Dhaka,Bangladesh,15/01/2023,Regular,OK
+C002,SARAH JONES,sarah_jones@mail.com,8801712345678,Chittagong,BD,2023-02-20,VIP,  
+C003,Mike  Brown,mike.brown@email.com,(017) 987-6543,  Sylhet  ,Bangladesh,03-15-2023,regular,N/A
+C001,  john smith  ,john.smith@email.com,01712-345678,Dhaka,Bangladesh,15/01/2023,Regular,duplicate row
+C004,Emily Davis,emily.davis@email.com,01812345678,Khulna,Bangladesh,2023/04/10,Premium,NULL
+C005,  ,david.wilson@email.com,01911-222333,Rajshahi,Bangladesh,12.05.2023,Regular,
+C006,Lisa  Anderson,lisa@email.com,01700000000,Dhaka,Bangladesh,2023-06-01,vip,  
+C007,Robert Taylor,robert.taylor@email.com,N/A,Barisal,Bangladesh,07/20/2023,Regular,OK
+C008,Jennifer White,jennifer.white@email.com,01612 345 678,  Dhaka,Bangladesh,2023-08-15,PREMIUM,  
+C009,William Harris,william@email.com,01512345678,Chittagong,Bangladesh,09-01-2023,Regular,NULL
+C010,  Amanda Clark  ,amanda.clark@email.com,01712-999888,Sylhet,BD,2023.10.05,regular,OK
+C011,James Lewis,james.lewis@email.com,01800-111222,Khulna,Bangladesh,11/11/2023,VIP,  
+C012,Patricia Walker,patricia@email.com,01999-888777,Dhaka,Bangladesh,2023-12-01,Regular,N/A
+C013,Thomas Hall,thomas.hall@email.com,01755-666555,Rajshahi,Bangladesh,01-15-2024,premium,  
+C014,  Barbara Allen  ,barbara@email.com,01666-555444,Barisal,Bangladesh,2024/02/20,Regular,OK
+C015,Christopher Young,chris.young@email.com,NULL,Dhaka,Bangladesh,03.03.2024,VIP,  
+C002,SARAH JONES,sarah_jones@mail.com,8801712345678,Chittagong,BD,2023-02-20,VIP,duplicate
+C016,  Jessica King  ,jessica.king@email.com,01712-333222,Chittagong,Bangladesh,04-10-2024,Regular,  
+C017,Daniel Wright,daniel@email.com,01812-444333,Sylhet,Bangladesh,2024-05-05,premium,N/A
+C018,Nancy Lopez,nancy.lopez@email.com,01912-555444,  Khulna  ,Bangladesh,06/15/2024,Regular,OK
+C019,Matthew Hill,matthew.hill@email.com,01712-666555,Dhaka,Bangladesh,2024-07-01,VIP,  
+C020,  Betty Scott  ,betty.scott@email.com,01612-777666,Rajshahi,Bangladesh,08.20.2024,Regular,NULL
