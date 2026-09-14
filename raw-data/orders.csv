@@ -1,0 +1,31 @@
+OrderID,Cust ID,Order Date,Product Name,Category-SubCategory,Quantity,Unit Price,Total Amount,Payment Method,Order Status,Ship City
+ORD-1001,C001,15/01/2023,  Wireless Mouse  ,Electronics - Accessories,2 pcs,$15.50,31,Credit Card,Delivered,Dhaka
+ORD-1002,C002,2023-02-21,USB-C Cable,Electronics-Accessories,5pcs,8.99,44.95,Cash,delivered,Chittagong
+ORD-1003,C003,03-16-2023,Laptop Stand,Electronics - Accessories,1,25.00,25,bKash,Pending,  Sylhet  
+ORD-1004,C001,2023/01/20,Mechanical Keyboard,Electronics-Accessories,1 pc,75.00,$75,Credit Card,Delivered,Dhaka
+ORD-1005,C004,10-04-2023,  Notebook A5  ,Stationery - Paper,10 pcs,2.50,25,Cash,DELIVERED,Khulna
+ORD-1006,C005,2023-05-13,Ballpoint Pen Pack,Stationery-Writing,3,4.99,14.97,Nagad,delivered,Rajshahi
+ORD-1007,C006,01/06/2023,Wireless Mouse,Electronics - Accessories,1 pcs,$15.50,15.5,Credit Card,Cancelled,Dhaka
+ORD-1008,C007,2023-07-22,Desk Lamp LED,Home - Lighting,2,18.00,36,Cash,Delivered,Barisal
+ORD-1009,C008,15-08-2023,  HDMI Cable  ,Electronics-Accessories,3pcs,12.00,36,bKash,pending,Dhaka
+ORD-1010,C009,2023.09.02,A4 Paper Ream,Stationery - Paper,5,6.50,32.5,Credit Card,Delivered,Chittagong
+ORD-1011,C010,05/10/2023,Stapler Heavy Duty,Stationery-Office,1,9.99,9.99,Cash,Delivered,Sylhet
+ORD-1012,C011,2023-11-12,Wireless Mouse,Electronics - Accessories,4 pcs,15.50,62,Nagad,delivered,Khulna
+ORD-1013,C012,01.12.2023,  Sticky Notes  ,Stationery - Paper,8,1.50,12,Credit Card,Delivered,Dhaka
+ORD-1014,C013,2024/01/16,USB Hub 4-Port,Electronics-Accessories,2pcs,$22.00,44,bKash,Pending,Rajshahi
+ORD-1015,C014,20-02-2024,Notebook A5,Stationery - Paper,6 pcs,2.50,15,Cash,Delivered,Barisal
+ORD-1016,C015,2024-03-04,Laptop Stand,Electronics - Accessories,1,25.00,25,Credit Card,delivered,Dhaka
+ORD-1017,C002,10/04/2024,  Mechanical Keyboard  ,Electronics-Accessories,1 pc,75.00,75,Nagad,Delivered,Chittagong
+ORD-1018,C016,2024-05-06,Desk Lamp LED,Home - Lighting,1,18.00,18,Cash,Pending,Chittagong
+ORD-1019,C017,05.05.2024,Ballpoint Pen Pack,Stationery-Writing,2 pcs,4.99,9.98,bKash,Delivered,Sylhet
+ORD-1020,C018,2024/06/16,Wireless Mouse,Electronics - Accessories,3pcs,$15.50,46.5,Credit Card,DELIVERED,  Khulna  
+ORD-1021,C019,01-07-2024,HDMI Cable,Electronics-Accessories,2,12.00,24,Cash,delivered,Dhaka
+ORD-1022,C020,2024-08-21,A4 Paper Ream,Stationery - Paper,4 pcs,6.50,26,Nagad,Delivered,Rajshahi
+ORD-1023,C001,15/01/2023,  Wireless Mouse  ,Electronics - Accessories,2 pcs,$15.50,31,Credit Card,Delivered,Dhaka
+ORD-1024,C003,2023-03-20,USB-C Cable,Electronics-Accessories,N/A,8.99, ,Cash,Pending,Sylhet
+ORD-1025,C004,04/12/2023,Stapler Heavy Duty,Stationery-Office,1 pc,9.99,9.99,bKash,Delivered,Khulna
+ORD-1026,C006,2023-06-15,  Notebook A5  ,Stationery - Paper,NULL,2.50, ,Credit Card,delivered,Dhaka
+ORD-1027,C008,08.09.2023,Desk Lamp LED,Home - Lighting,2 pcs,18.00,36,Cash,Cancelled,Dhaka
+ORD-1028,C011,2024-01-05,Wireless Mouse,Electronics - Accessories,1,15.50,15.5,Nagad,Delivered,Khulna
+ORD-1029,C013,15/02/2024,USB Hub 4-Port,Electronics-Accessories,3pcs,22.00,66,Credit Card,Pending,Rajshahi
+ORD-1030,C015,2024-04-01,  Mechanical Keyboard  ,Electronics-Accessories,1 pc,$75.00,75,bKash,Delivered,Dhaka
